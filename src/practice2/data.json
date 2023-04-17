@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "60dc8b4a009ef3c7ddf78782",
+    "expense": 894.0865,
+    "name": "cupidatat",
+    "date": "2020-01-28T04:24:59"
+  },
+  {
+    "_id": "60dc8b4aa098a89c0589aba8",
+    "expense": 914.5046,
+    "name": "sunt",
+    "date": "2021-05-25T10:48:44"
+  },
+  {
+    "_id": "60dc8b4a5104cc7328b54237",
+    "expense": 850.3441,
+    "name": "cupidatat",
+    "date": "2021-03-05T06:52:16"
+  },
+  {
+    "_id": "60dc8b4a620ae6c1b3f43d19",
+    "expense": 566.6944,
+    "name": "incididunt",
+    "date": "2020-12-29T01:57:56"
+  },
+  {
+    "_id": "60dc8b4ae3c9496d995de438",
+    "expense": 821.1297,
+    "name": "nisi",
+    "date": "2020-12-12T08:11:10"
+  },
+  {
+    "_id": "60dc8b4a097bcc1086f7fe75",
+    "expense": 436.8665,
+    "name": "minim",
+    "date": "2020-11-21T03:29:08"
+  },
+  {
+    "_id": "60dc8b4a14a610fccc1f4d35",
+    "expense": 399.7972,
+    "name": "ut",
+    "date": "2020-09-22T08:01:00"
+  },
+  {
+    "_id": "60dc8b4af83f49944974a3c0",
+    "expense": 171.0953,
+    "name": "sint",
+    "date": "2020-12-12T10:09:34"
+  },
+  {
+    "_id": "60dc8b4aa2a3b7adb17d9a69",
+    "expense": 458.2385,
+    "name": "nulla",
+    "date": "2021-05-29T05:10:05"
+  },
+  {
+    "_id": "60dc8b4ab9f045332ce18b53",
+    "expense": 651.0235,
+    "name": "Lorem",
+    "date": "2020-02-06T01:52:03"
+  }
+]
